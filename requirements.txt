@@ -130,14 +130,12 @@ OWSLib==0.17.1
 packaging==19.0
 pandas==0.23.4
 pandocfilters==1.4.2
-parso==0.4.0
 partd==0.3.10
 path.py==11.5.0
 pathlib2==2.3.3
 patsy==0.5.1
 pep8==1.7.1
 pickleshare==0.7.5
-Pillow==3.0.0
 pkginfo==1.5.0.1
 pluggy==0.11.0
 ply==3.11
@@ -150,7 +148,6 @@ pyasn1-modules==0.2.4
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
-pycrypto==2.6.1
 pycurl==7.19.0
 pyepsg==0.4.0
 pyflakes==2.1.1
@@ -220,7 +217,6 @@ tornado==5.1.1
 tqdm==4.31.1
 traceback2==1.4.0
 traitlets==4.3.2
-Twisted==17.5.0
 typing==3.6.6
 unicodecsv==0.14.1
 unittest2==1.1.0
